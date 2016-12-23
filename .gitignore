@@ -5,3 +5,6 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+
+# API keys
+api_key.js
